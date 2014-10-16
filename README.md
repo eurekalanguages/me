@@ -1,4 +1,4 @@
-me
-==
+redirect
+========
 
-redirector from old to new domain
+Redirect from CNAME to the URL in index.html
